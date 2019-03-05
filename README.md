@@ -12,7 +12,7 @@ The setting ("off", "start", "end") determines whether the plugin is before or a
 The ID (1 - 16) makes it possible to measure multiple plugins/chains by giving each plugin/chain an unique, up to 16 different, ID's.  
 
 **Dependencies:**
-- JUCE: https://github.com/WeAreROLI/JUCE
+JUCE: https://github.com/WeAreROLI/JUCE
 
 **Credits:**  
 [**Martijn Zwartjes**](https://www.112db.com/) - Initiative, idea and concept    
