@@ -14,5 +14,5 @@ The ID (1 - 16) makes it possible to measure multiple plugins/chains by giving e
 Dependencies:
 - JUCE: https://github.com/WeAreROLI/JUCE
 
-Credits to Martijn Zwartjes (https://www.112db.com/) for the initiating and coming up with the idea and concept!  
-Coding by... me :) (Jelle Bakker - https://www.jb-audio.com/)  
+Initiative, idea and concept: **Martijn Zwartjes**- https://www.112db.com/  
+Coding: **Jelle Bakker** - https://www.jb-audio.com/  
