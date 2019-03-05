@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="BJbuEJ" name="PluginTimeMeasurer" projectType="audioplug"
               jucerVersion="5.4.3" companyName="JB Audio" companyEmail="jellebakker@jb-audio.com"
-              companyWebsite="http://www.jb-audio.com" pluginFormats="buildAU,buildStandalone,buildVST3"
+              companyWebsite="http://www.jb-audio.com" pluginFormats="buildAU,buildVST3"
               pluginCode="PTME" pluginManufacturerCode="JBAU">
   <MAINGROUP id="MVj9Lm" name="PluginTimeMeasurer">
     <GROUP id="{9756728E-4041-E00F-42B5-CC3CD6354A85}" name="Source">
