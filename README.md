@@ -11,7 +11,7 @@ The plugin should be inserted before and after the plugin (or plugin chain) that
 The setting ("off", "start", "end") determines whether the plugin is before or after the chain.  
 The ID (1 - 16) makes it possible to measure multiple plugins/chains by giving each plugin/chain an unique, up to 16 different, ID's.  
 
-**Dependencies:**
+**Dependencies:**  
 JUCE: https://github.com/WeAreROLI/JUCE
 
 **Credits:**  
