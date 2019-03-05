@@ -1,13 +1,18 @@
 # PluginTimeMeasurer
 Measuring plugin performance
 
+What is this?
+This is a tool that measures the time it takes for a plugin to process an audio buffer block.
+The time it takes to process one block is divided by the time **between** two blocks which is similar to how much CPU the block took to process.
+
+How to use?
+The tool is a plugin itself and should be compiled using a JUCE project (see dependencies).
+The plugin should be inserted before and after the plugin (or plugin chain) that needs to be measured.
+The setting ("off", "start", "end") determines whether the plugin is before or after the chain.
+The ID (1 - 16) makes it possible to measure multiple plugins/chains by giving each plugin/chain an unique, up to 16 different, ID's.
+
 Dependencies:
 - JUCE: https://github.com/WeAreROLI/JUCE
 
-How to use?
-Insert this plugin before and after the plugin you would like to measure.
-Set the plugin that is before the measured plugin settings to "start" and the one after the plugin to "end".
-The ID setting makes it possible to measure multiple plugin chains.
-
-Jelle Bakker - JB Audio
+Jelle Bakker - JB AudiO
 jellebakker@jb-audio.com
