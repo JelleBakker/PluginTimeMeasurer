@@ -17,7 +17,7 @@ JUCE: https://github.com/WeAreROLI/JUCE
 
 **Notes:**  
 This tool measures time, and cannot always be trusted.
-For instance, the block buffer size can be variable because a DAW might decide to process the blocks in chunks, for example to smooth automation. This leads to incorrect results.
+For instance, the block buffer size can be variable because a DAW might decide to process the blocks in chunks, for example to smooth automation. This leads to incorrect results.  
 Also there are some differences between Windows and Mac in the stability, speed and wake up time of the CPU.  
 Anyway, there are more examples of where this developer tool should be used carefully. Don't trust it blindly.  
 
