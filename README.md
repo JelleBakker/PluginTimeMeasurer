@@ -22,5 +22,5 @@ Also there are some differences between Windows and Mac in the stability, speed 
 Anyway, this developer tool should be used carefully.  
 
 **Credits:**  
-[**Martijn Zwartjes**](https://www.112db.com/) - Initiative, idea and concept    
-[**Jelle Bakker**](https://www.jb-audio.com/) - Coding    
+[**Martijn Zwartjes**](https://www.112db.com/) - Concept  
+[**Jelle Bakker**](https://www.jb-audio.com/) - Coding / Concept   
